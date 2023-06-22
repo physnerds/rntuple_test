@@ -1,0 +1,14 @@
+<lcgdict>
+  <class name="cms::soa::SoAColumnType">
+  <field name="scalar" comment="scalar type"/>
+  <field name="column" comment="column"/>
+  <field name="eigen" comment="eigen type"/>
+  </class>
+  <class name="DuneSoADataModel" ClassVersion="1"/>
+  <class name="DuneSoADataModel::SoATemplate<128u1,(cms::soa::AlignmentEnforcement)0>">
+    <field name="ch1",comment="channel data"/>
+    <field name="description",comment="channel info"/>
+  </class>  
+  <class name="DuneSoADataModel::SoASingleTemplate"/> 
+</lcgdict>
+

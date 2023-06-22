@@ -1,0 +1,10 @@
+<lcgdict>
+  <class name="DuneSoADataModel" ClassVersion="1"/>
+  <class name="DuneSoADataModel::SoATemplate">
+    <field name="ch1",comment="channel data"/>
+    <field name="description",comment="channel info"/>
+  </class>  
+  <class name="DuneSoADataModel::SoASingleTemplate">
+  </class>  
+</lcgdict>
+

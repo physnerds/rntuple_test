@@ -1,0 +1,7 @@
+<lcgdict>
+  <!-- Start with SoAColumnType -->
+  <class name="cms::soa::SoAColumnType"/>
+  <field name="scalar" comment="scalar type"/>
+  <field name="column" comment="column"/>
+  <field name="eigen" comment="eigen type"/>
+</lcgdict>
